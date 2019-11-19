@@ -1,0 +1,2 @@
+module javasmmr.zoowsome.models {
+}
