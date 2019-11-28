@@ -1,0 +1,2 @@
+module Exceptie2 {
+}
