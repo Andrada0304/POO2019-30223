@@ -1,0 +1,49 @@
+<?xml version="1.0"?><content>
+<ANIMAL>
+	<nrOfLegs>4</nrOfLegs>
+	<name>Caine</name>
+	<maintenanceCost>6.4</maintenanceCost>
+	<dangerPerc>0.4</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<normalBodyTemp>0.0</normalBodyTemp>
+	<percBodyHair>0.0</percBodyHair>
+	<DISCRIMINANT>Dog</DISCRIMINANT>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Fluture</name>
+	<maintenanceCost>2.3</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<canFly>false</canFly>
+	<isDangerous>false</isDangerous>
+	<DISCRIMINANT>Butterfly</DISCRIMINANT>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>2</nrOfLegs>
+	<name>Barza</name>
+	<maintenanceCost>7.6</maintenanceCost>
+	<dangerPerc>0.1</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<avgFlightAttitude>0</avgFlightAttitude>
+	<migrates>false</migrates>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Rechin</name>
+	<maintenanceCost>4.9</maintenanceCost>
+	<dangerPerc>0.9</dangerPerc>
+	<takenCareOf>true</takenCareOf>
+	<avgSwimDepth>200</avgSwimDepth>
+	<waterType>null</waterType>
+</ANIMAL>
+<ANIMAL>
+	<nrOfLegs>0</nrOfLegs>
+	<name>Sarpe</name>
+	<maintenanceCost>5.9</maintenanceCost>
+	<dangerPerc>0.7</dangerPerc>
+	<takenCareOf>false</takenCareOf>
+	<laysEggs>true</laysEggs>
+	<DISCRIMINANT>Sarpe</DISCRIMINANT>
+</ANIMAL>
+</content>
