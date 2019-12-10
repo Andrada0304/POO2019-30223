@@ -1,0 +1,30 @@
+<?xml version="1.0"?><content>
+<EMPLOYEE>
+	<name>Cristian</name>
+	<id>0</id>
+	<salary>3200.36000000000012732925824820995330810546875</salary>
+	<isDead>true</isDead>
+	<avgFlightAttitude>10.2</avgFlightAttitude>
+</EMPLOYEE>
+<EMPLOYEE>
+	<name>Loredana</name>
+	<id>0</id>
+	<salary>3500.46999999999979991116560995578765869140625</salary>
+	<isDead>true</isDead>
+	<avgFlightAttitude>3.7</avgFlightAttitude>
+</EMPLOYEE>
+<EMPLOYEE>
+	<name>Maria</name>
+	<id>0</id>
+	<salary>3750.42999999999983629095368087291717529296875</salary>
+	<isDead>true</isDead>
+	<avgFlightAttitude>7.300000000000001</avgFlightAttitude>
+</EMPLOYEE>
+<EMPLOYEE>
+	<name>Paul</name>
+	<id>0</id>
+	<salary>3950.3699999999998908606357872486114501953125</salary>
+	<isDead>true</isDead>
+	<avgFlightAttitude>3.0999999999999996</avgFlightAttitude>
+</EMPLOYEE>
+</content>
