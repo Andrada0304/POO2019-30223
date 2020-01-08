@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"Ghicitori","l":"CitesteGhicitori"},{"p":"Ghicitori","l":"GhicitoriStart"},{"p":"Ghicitori","l":"GhicitoriView"},{"p":"Ghicitori","l":"HintsButton"},{"p":"Ghicitori","l":"NextButton"},{"p":"Ghicitori","l":"OkButton"},{"p":"Ghicitori","l":"StartButton"}]
